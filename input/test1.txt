@@ -1,0 +1,3 @@
+When Java came out some decades ago, it was pretty innovative at the time. In particular, its exception handling mechanism was a great 
+improvement over previous C/C++. For example, in order to read from the file, there could be a lot of exceptions happening: the file can be 
+absent, it can be read-only, etc.

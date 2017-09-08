@@ -1,0 +1,3 @@
+Unfortunately, one issue remains, and not a small one. What about the calling code? It would need to handle the failure. Or, more probably,
+let the calling code handle it, and so on, and so forth, up to the topmost code. For me, (example) that makes it impossible to consider the 
+exception-free functional approach an improvement.

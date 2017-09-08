@@ -1,0 +1,2 @@
+The strangest part is this is exactly what people complain about with Java’s checked exceptions: it’s necessary to handle them at the exact 
+location where they appear and the method signature has to be changed accordingly. small
